@@ -56,7 +56,7 @@ AutoDealer Management System is a secure, backend Spring Boot application design
 
 ### Setup Instructions
 1. Clone the repository  
-$ git clone project details
+$ git clone https://github.com/MadathaGanesh/AutoDealer-Management-System.git
 
 2. Configure your database in `src/main/resources/application.properties`  
 
